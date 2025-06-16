@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Maria Fernanda Kailer
 
-<!--
-**fernanda-kailer/fernanda-kailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou uma desenvolvedora back-end apaixonada por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais.
 
-Here are some ideas to get you started:
+Atualmente, estou focada no ecossistema Java, desenvolvendo projetos com Spring Boot, APIs REST e aplicando boas práticas com Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho facilidade para aprender de forma autônoma, gosto de resolver problemas com criatividade e também de colaborar em equipe.
+
+---
+
+### 🧰 Tecnologias em uso
+- Java
+- Spring Boot
+- API REST
+- Git e GitHub
+- SQL
+- HTML & CSS
+
+---
+
+### 🌱 *Aprendizado contínuo: meu loop favorito.*
+
+---
+
+### 📫 Onde me encontrar
+[LinkedIn](https://www.linkedin.com/in/maria-fernanda-k)
