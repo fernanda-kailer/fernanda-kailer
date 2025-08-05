@@ -17,10 +17,5 @@ Tenho facilidade para aprender de forma autônoma, gosto de resolver problemas c
 - HTML & CSS
 
 ---
-
-### 🌱 *Aprendizado contínuo: meu loop favorito.*
-
----
-
 ### 📫 Onde me encontrar
 [LinkedIn](https://www.linkedin.com/in/maria-fernanda-k)
