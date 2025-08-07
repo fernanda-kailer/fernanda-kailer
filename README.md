@@ -1,15 +1,9 @@
-<div align="center">
+<div align="left">
   <h1>Olá, eu sou a Maria Fernanda Kailer 👋</h1>
-  <h3>Desenvolvedora Back-end.</h3>
-  <br>
 </div>
 
----
-
-### 👩‍💻 Sobre Mim
-
 <p align="left">
-  Sou uma desenvolvedora back-end com foco no ecossistema **Java**, utilizando **Spring Boot** para criar **APIs REST** robustas e eficientes. Tenho um forte apreço por boas práticas de desenvolvimento, incluindo o uso consistente de **Git** e **GitHub** para controle de versão e colaboração.
+  Sou uma desenvolvedora back-end com foco no ecossistema Java, utilizando Spring Boot para criar APIs REST robustas e eficientes. Tenho um forte apreço por boas práticas de desenvolvimento, incluindo o uso consistente de Git e GitHub para controle de versão e colaboração.
 </p>
 
 - 🔭 Atualmente, estou aprofundando meus conhecimentos em arquiteturas de microsserviços.
@@ -17,26 +11,18 @@
 - 📫 Como entrar em contato comigo: **[LinkedIn](www.linkedin.com/in/maria-fernanda-k)** ou por e-mail.
 
 ---
-
-### 💻 Tecnologias que Utilizo
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,github,mysql,postgres,html,css,postman,idea&perline=6" />
   </a>
 </p>
 
----
-
-### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/fernanda-kailer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-kailer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-kailer&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-
-  ### 🐍 Jogo da Cobrinha do GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fernanda-kailer/fernanda-kailer/main/dist/github-contribution-grid-snake.svg" alt="snake animation">
@@ -47,7 +33,12 @@
 
 ### 📫 Onde me encontrar
 
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/maria-fernanda-k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:fernandakailerdevL@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+
+<div align="right">
+  <img height="350" alt="Silhueta minimalista de gato" src="https://github.com/user-attachments/assets/11ef059d-e638-4ab9-a3e4-8a8f824eba52" />
+</div>
+
