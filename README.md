@@ -35,6 +35,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-kailer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-kailer&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+
+  ### 🐍 Jogo da Cobrinha do GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fernanda-kailer/fernanda-kailer/main/dist/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
 </div>
 
 ---
