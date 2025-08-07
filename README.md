@@ -2,11 +2,6 @@
   <h1>Olá, eu sou a Maria Fernanda Kailer 👋</h1>
   <h3>Desenvolvedora Back-end.</h3>
   <br>
-  <p align="center">
-    <a href="https://github.com/fernanda-kailer">
-      <img alt="Visitas no Perfil" src="https://profile-counter.glitch.me/fernanda-kailer/count.svg" />
-    </a>
-  </p>
 </div>
 
 ---
