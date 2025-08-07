@@ -1,37 +1,25 @@
-# Nome da GitHub Action
 name: Generate Snake Animation
 
-# Define quando a Action deve rodar
 on:
-  # Roda automaticamente a cada 12 horas
   schedule:
-    - cron: "0 */12 * * *"
-  # Permite que você rode a Action manualmente na aba "Actions" do seu repositório
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Roda a cada 12 horas
+  workflow_dispatch:        # Permite rodar manualmente
 
-# Define os "trabalhos" que a Action vai executar
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Passo 1: Faz o checkout do seu repositório para que a Action possa escrever nele
       - uses: actions/checkout@v3
 
-      # Passo 2: Gera a animação da cobrinha
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # O ID do seu usuário do GitHub
-          github_user_name: ${{ github.repository_owner }}
-
-          # Arquivos de saída
-          # O primeiro é o SVG animado, o segundo é um SVG estático (opcional)
+          github_user_name: fernanda-kailer
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Passo 3: Envia os arquivos gerados de volta para o seu repositório
       - run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
