@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Olá, eu sou a Maria Fernanda Kailer 👋</h1>
+  <h1>Olá 👋</h1>
 </div>
 
 <p align="left">
