@@ -8,7 +8,6 @@
 
 - 🔭 Atualmente, estou aprofundando meus conhecimentos em arquiteturas de microsserviços.
 - 🌱 Tenho facilidade para aprender de forma autônoma, gosto de resolver problemas com criatividade e também de colaborar em equipe.
-- 📫 Como entrar em contato comigo: **[LinkedIn](www.linkedin.com/in/maria-fernanda-k)** ou por e-mail.
 
 ---
 <p align="center">
@@ -30,13 +29,6 @@
 </div>
 
 ---
-
-### 📫 Onde me encontrar
-
-<p align="left">
-  <a href="www.linkedin.com/in/maria-fernanda-k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:fernandamariakailer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
 
 <div align="right">
   <img height="350" alt="Silhueta minimalista de gato" src="https://github.com/user-attachments/assets/11ef059d-e638-4ab9-a3e4-8a8f824eba52" />
