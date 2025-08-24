@@ -12,7 +12,7 @@
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,github,mysql,postgres,html,css,postman,python,php" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,mysql,postgres,html,css,python,php" />
   </a>
 </p>
 
@@ -26,11 +26,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/fernanda-kailer/fernanda-kailer/main/dist/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
-</div>
-
----
-
-<div align="right">
-  <img height="350" alt="Silhueta minimalista de gato" src="https://github.com/user-attachments/assets/11ef059d-e638-4ab9-a3e4-8a8f824eba52" />
 </div>
 
