@@ -12,10 +12,10 @@
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,mysql,postgres,html,css,python,php" />
+    <img 
+src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,mysql,postgres,html,css,python,php,javascript&perline=6" />
   </a>
 </p>
-
 
 <div align="center">
   <a href="https://github.com/fernanda-kailer">
