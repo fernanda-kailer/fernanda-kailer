@@ -6,7 +6,6 @@
   Sou uma desenvolvedora back-end com foco no ecossistema Java, utilizando Spring Boot para criar APIs REST robustas e eficientes. Tenho um forte apreço por boas práticas de desenvolvimento, incluindo o uso consistente de Git e GitHub para controle de versão e colaboração.
 </p>
 
-- 🔭 Atualmente, estou aprofundando meus conhecimentos em arquiteturas de microsserviços.
 - 🌱 Tenho facilidade para aprender de forma autônoma, gosto de resolver problemas com criatividade e também de colaborar em equipe.
 
 ---
